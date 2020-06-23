@@ -1,0 +1,121 @@
+.container{
+    border: 5px solid #ffcc5f;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.home{
+    background-color:#83677B;
+    height: 100px;
+    width: 100%;
+    
+}
+
+.home h1{
+    font-family: cursive;
+    font-size: xx-large;
+    text-align: center;
+    color: #501B1D;
+}
+.about{
+    background-color: crimson;
+    height: 100px;
+    width: 100%;
+    
+
+}
+.about h1{
+    font-family: cursive;
+    font-size: xx-large;
+    text-align: center;
+    color: #ffff;
+
+}
+.contact{
+    background-color:yellowgreen;
+    height: 100px;
+    width: 100%;
+}
+.contact h1{
+    font-family: cursive;
+    font-size: xx-large;
+    text-align: center;
+    color: orangered;
+}
+.container2{
+    border: 7px solid blueviolet;
+    padding: 15px;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    padding-bottom: 15px;
+    
+    
+}
+
+.name{
+    background-color:palevioletred;
+    height: 80px;
+    width: 150px;
+}
+
+.name h1{
+    font-family: "Cambria";
+    font-size: larger;
+    text-align: center;
+    padding-top: 10px;
+    position: relative;
+    color: purple;
+}
+
+.is{
+    background-color:lightsalmon;
+    height: 80px;
+    width: 150px;
+}
+
+.is h1{
+    font-family: "Cambria";
+    font-size: x-large;
+    text-align: center;
+    color: red;
+    
+    padding-left:10px;
+}
+
+.sakshi{
+    background-color:rgb(226, 230, 11);
+    height: 80px;
+    width: 150px;
+}
+.sakshi h1{
+    font-family: "Cambria";
+    font-size: larger;
+    padding-top: 10px;
+    text-align: center;
+    color:black;
+}
+
+.wrapper h1{
+    text-align: center;
+    font-size: 40px;
+    font-family:  "Helvetica Neue";
+  
+}
+
+.img-area{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.single-img{
+    padding: 0 20px 20px;
+}
+
+img:hover{
+    opacity: .5;
+    transition: .9s;
+}
