@@ -119,3 +119,162 @@ img:hover{
     opacity: .5;
     transition: .9s;
 }
+
+.color-wrapper{
+    padding: 10px;
+    height: 600px;
+    background-color: rgb(226, 230, 11);
+    padding-bottom: 40px;
+}
+.color-area{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 600;
+    padding-top: 25px;
+    background-color: rebeccapurple;
+}
+.single-color1{
+    color: whitesmoke;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+    background-color: seashell;
+}
+
+.single-color1 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color2{
+   background-color: slateblue;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color2 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color3{
+    background-color: springgreen;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+.single-color3 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color4{
+    background-color: tomato;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color4 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color5{
+    background-color: yellowgreen;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color5 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color6{
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color6 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color7{
+    background-color: blanchedalmond;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color7 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+.single-color8{
+    background-color:cornflowerblue;
+    height: 250px;
+    width: 250px;
+    padding: 0 20px 20px;
+}
+
+.single-color8 h1{
+    color: black;
+    justify-content: center;
+    padding: 30px;
+    text-align: inherit;
+    padding-top: 45px;
+}
+
+.about-me{
+    padding-top: 10px;
+    margin-top: 10px;
+    background-color: lightpink;
+    border-style: dotted;
+    border-color: darkred;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.content{
+   padding: 2px; 
+   width: 500px;
+   height: 350px;
+   padding-left: 20px;
+
+    
+}
+
+.content h1{
+    text-align: left;
+    font-family: cursive;
+    font-size: large;
+}
+.my-image{
+    padding: 2px;
+    align-items: center;
+    padding-block-end: 0%;
+    padding-left: 250px;
+}
